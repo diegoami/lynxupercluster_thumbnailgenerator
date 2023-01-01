@@ -1,0 +1,15 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/ajin/paintnet_projects/ajin.png"
+output_dir: "/media/diego/Seagate Backup Plus Drive/letsplay/thumbnails/ajin"
+end_range: 30
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 450
+  color:
+    r: 10
+    g: 160
+    b: 10
+coords:
+  x2: 100
+  x3: 25
+  y: 220
+
