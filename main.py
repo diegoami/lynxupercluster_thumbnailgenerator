@@ -1,3 +1,5 @@
+import os
+
 from PIL import Image, ImageFont, ImageDraw
 import argparse
 import yaml
@@ -14,6 +16,7 @@ if __name__ == "__main__":
             conf_info = yaml.safe_load(confhandle)
         font1 = ImageFont.truetype(conf_info["font"]["name"], conf_info["font"]["size"])
         baseImg = Image.open(conf_info["orig_file"])
+        os.makedirs(conf_info['output_dir'], exist_ok=True)
         for i in range(1, conf_info["end_range"] + 1):
             img = baseImg.copy()
             imgDraw = ImageDraw.Draw(img)
