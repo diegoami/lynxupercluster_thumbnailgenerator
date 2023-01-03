@@ -1,5 +1,5 @@
 orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/tynops/paint_net_projects/tynops.png"
-output_dir: "/media/diego/Seagate Backup Plus Drive/letsplay/thumbnails/tynops"
+output_dir: "/media/exfat/letsplay/thumbnails/tynops"
 end_range: 300
 font:
   name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
