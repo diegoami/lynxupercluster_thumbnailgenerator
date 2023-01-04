@@ -1,5 +1,5 @@
 orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/matilda/paintnet_projects/matilda.png"
-output_dir: "/media/exfat/letsplay/thumbnails/matilda"
+output_dir: "/mnt/ntfs/letsplay/thumbnails/matilda"
 end_range: 150
 font:
   name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"

@@ -1,5 +1,5 @@
 orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/pazhel/paintnet_projects/pazhel.png"
-output_dir: "/media/exfat/letsplay/thumbnails/pazhel"
+output_dir: "/mnt/ntfs/letsplay/thumbnails/pazhel"
 end_range: 300
 font:
   name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"

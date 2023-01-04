@@ -17,7 +17,8 @@ if __name__ == "__main__":
         font1 = ImageFont.truetype(conf_info["font"]["name"], conf_info["font"]["size"])
         baseImg = Image.open(conf_info["orig_file"])
         os.makedirs(conf_info['output_dir'], exist_ok=True)
-        for i in range(1, conf_info["end_range"] + 1):
+        start_range, end_range = conf_info.get("start_range", 0), conf_info.get("end_range", 1000)
+        for i in range(start_range + 1, end_range + 1):
             img = baseImg.copy()
             imgDraw = ImageDraw.Draw(img)
             color = (conf_info["font"]["color"]["r"], conf_info["font"]["color"]["g"], conf_info["font"]["color"]["b"])
