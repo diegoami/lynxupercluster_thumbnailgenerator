@@ -26,7 +26,8 @@ if __name__ == "__main__":
                 imgDraw.text((conf_info["coords"]["x2"], conf_info["coords"]["y"]), str(i).rjust(2, '0'), color, font1)
             elif len(str(i)) == 3:
                 imgDraw.text((conf_info["coords"]["x3"], conf_info["coords"]["y"]), str(i), color, font1)
-
+            img = img.resize((1280, 720))
             img.save(f"{conf_info['output_dir']}/thumbnail{i}.png")
+            print(f"Saved {conf_info['output_dir']}/thumbnail{i}.png")
 
 

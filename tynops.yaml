@@ -1,7 +1,7 @@
 orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/tynops/paint_net_projects/tynops.png"
-output_dir: "/mnt/ntfs/letsplay/thumbnails/tynops"
-start_range: 230
-end_range: 300
+output_dir: "/media/diego/Seagate Backup Plus Drive/letsplay/thumbnails/tynops"
+start_range: 299
+end_range: 350
 font:
   name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
   size: 450
