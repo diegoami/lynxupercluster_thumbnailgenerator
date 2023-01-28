@@ -1,14 +1,14 @@
-orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/matilda/paintnet_projects/murchad.png"
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/murchad/paintnet_projects/murchad.png"
 output_dir: "/media/diego/Seagate Backup Plus Drive/letsplay/thumbnails/murchad"
-end_range: 150
+end_range: 100
 font:
   name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
-  size: 450
+  size: 600
   color:
-    r: 194
-    g: 66
-    b: 245
+    r: 200
+    g: 200
+    b: 50
 coords:
-  x2: 1650
-  x3: 1600
-  y: 200
+  x2: 200
+  x3: 200
+  y: 300
