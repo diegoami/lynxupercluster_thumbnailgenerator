@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/brandenburg/paintnet_projects/Brandenburg.png"
+output_dir: "/media/diego/Seagate Backup Plus Drive/letsplay/thumbnails/brandenburg"
+end_range: 150
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 600
+  color:
+    r: 50
+    g: 25
+    b: 75
+coords:
+  x2: 150
+  x3: 150
+  y: 300
