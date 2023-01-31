@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/england/krita/england.png"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/england"
+end_range: 80
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 500
+  color:
+    r: 0
+    g: 255
+    b: 0
+coords:
+  x2: 700
+  x3: 700
+  y: 300
