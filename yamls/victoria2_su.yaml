@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/victoria_soviet/images/russia_2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/victoria_soviet"
+end_range: 50
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 450
+  color:
+    r: 0
+    g: 235
+    b: 100
+coords:
+  x2: 55
+  x3: 50
+  y: 550
