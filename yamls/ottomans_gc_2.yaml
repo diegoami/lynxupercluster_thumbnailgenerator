@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/ottomans_hoiv/images/ottomans_hoiv_w.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/ottomans_hoiv"
+end_range: 2
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 200
+  color:
+    r: 255
+    g: 255
+    b: 255
+coords:
+  x2: 50
+  x3: 30
+  y: 100

@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/ottoman_imported/images/otto_night.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/ottoman_imported"
+end_range: 250
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 550
+  color:
+    r: 108
+    g: 144
+    b: 166
+coords:
+  x2: 200
+  x3: 175
+  y: 400

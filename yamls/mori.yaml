@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/mori/images/mori2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/mori"
+end_range: 100
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 200
+  color:
+    r: 41
+    g: 127
+    b: 0
+coords:
+  x2: 60
+  x3: 40
+  y: 120
