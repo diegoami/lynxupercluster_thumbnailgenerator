@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/civchina/images/china2b.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/civchina"
+end_range: 50
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 140
+  color:
+    r: 255
+    g: 255
+    b: 255
+coords:
+  x2: 80
+  x3: 89
+  y: 110

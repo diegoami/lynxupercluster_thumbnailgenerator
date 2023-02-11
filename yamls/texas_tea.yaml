@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/interfifa23/images/interfifa23c.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/interfifa23"
+end_range: 100
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 140
+  color:
+    r: 0
+    g: 255
+    b: 0
+coords:
+  x2: 75
+  x3: 75
+  y: 110

@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/shimazu/images/shimazu2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/shimazu"
+end_range: 100
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 200
+  color:
+    r: 118
+    g: 197
+    b: 120
+coords:
+  x2: 60
+  x3: 40
+  y: 120
