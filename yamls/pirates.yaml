@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/pirates/images  /pirates.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/pirates/"
+end_range: 200
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 180
+  color:
+    r: 0
+    g: 255
+    b: 0
+coords:
+  x2: 75
+  x3: 60
+  y: 140

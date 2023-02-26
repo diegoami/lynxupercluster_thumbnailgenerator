@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/gowest/images/gowest2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/gowest"
+end_range: 100
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 160
+  color:
+    r: 0
+    g: 255
+    b: 0
+coords:
+  x2: 75
+  x3: 75
+  y: 115

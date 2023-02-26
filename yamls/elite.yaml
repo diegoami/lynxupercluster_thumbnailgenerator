@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/elite/image/elite2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/elite/"
+end_range: 200
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 180
+  color:
+    r: 251
+    g: 60
+    b: 5
+coords:
+  x2: 75
+  x3: 60
+  y: 140
