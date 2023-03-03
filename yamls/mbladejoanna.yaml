@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/joanna1/images/joanna2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/joanna1/"
+end_range: 300
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 200
+  color:
+    r: 200
+    g: 255
+    b: 200
+coords:
+  x2: 50
+  x3: 30
+  y: 140
