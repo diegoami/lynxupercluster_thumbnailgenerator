@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/wendy/images/wendy2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/wendy/"
+end_range: 300
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 200
+  color:
+    r: 220
+    g: 255
+    b: 220
+coords:
+  x2: 50
+  x3: 30
+  y: 140
