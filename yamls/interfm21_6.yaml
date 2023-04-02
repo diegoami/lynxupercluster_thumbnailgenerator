@@ -5,9 +5,9 @@ font:
   name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
   size: 200
   color:
-    r: 220
-    g: 240
-    b: 185
+    r: 130
+    g: 221
+    b: 95
 coords:
   x2: 75
   x3: 60

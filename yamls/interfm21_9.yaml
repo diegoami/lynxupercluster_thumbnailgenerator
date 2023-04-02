@@ -1,0 +1,14 @@
+orig_file: "/home/diego/projects/letsplay/lynxsupercluster_thumbnails/fm21ssb9/image2.jpg"
+output_dir: "/media/diego/One Touch/letsplay/thumbnails/fm21_9/"
+end_range: 200
+font:
+  name: "/usr/share/fonts/truetype/tlwg/Loma-Oblique.ttf"
+  size: 200
+  color:
+    r: 97
+    g: 199
+    b: 221
+coords:
+  x2: 75
+  x3: 60
+  y: 140
